@@ -1,5 +1,6 @@
 namespace TodoApi.Models
 {
+    
     public class Stock
     {
         public long Id { get; set; }
